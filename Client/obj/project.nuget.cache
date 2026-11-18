@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xLKzM863Hc0=",
+  "dgSpecHash": "/D8Rh7l4G5Q=",
   "success": true,
-  "projectFilePath": "/workspaces/TCPServer/Cl/Cl.csproj",
+  "projectFilePath": "/workspaces/TCPServer/Client/Cl.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

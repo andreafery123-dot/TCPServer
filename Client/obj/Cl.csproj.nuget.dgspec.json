@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/TCPServer/Cl/Cl.csproj": {}
+    "/workspaces/TCPServer/Client/Cl.csproj": {}
   },
   "projects": {
-    "/workspaces/TCPServer/Cl/Cl.csproj": {
+    "/workspaces/TCPServer/Client/Cl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/TCPServer/Cl/Cl.csproj",
+        "projectUniqueName": "/workspaces/TCPServer/Client/Cl.csproj",
         "projectName": "Cl",
-        "projectPath": "/workspaces/TCPServer/Cl/Cl.csproj",
+        "projectPath": "/workspaces/TCPServer/Client/Cl.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/TCPServer/Cl/obj/",
+        "outputPath": "/workspaces/TCPServer/Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
